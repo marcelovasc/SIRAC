@@ -1,0 +1,420 @@
+ID;DES_CARGO
+1;Analista de Administra‡?o P£blica
+10;Coronel
+100;Analista de Atividades Rodovi rias
+101;Auxiliar de Atividades Rodovi rias
+102;T‚cnico de Atividades Rodovi rias
+103;Agente de Atividades Rodovi rias
+104;Analista de Transportes Urbanos
+105;T‚cnico de Transportes Urbanos
+106;Auxiliar de Transportes Urbanos
+107;Assessor Legislativo
+108;Consultor Legislativo
+109;Assessor T‚cnico-Legislativo
+11;Tenente Coronel
+110;Consultor T‚cnico-Legislativo
+111;Assistente Legislativo
+112;Auxiliar Legislativo
+113;Procurador Legislativo
+114;T‚cnico Legislativo
+115;Analista de Apoio …s Atividades Fazend rias
+116;T‚cnico de Apoio Administrativo …s Atividades Fazend rias
+117;Auxiliar de Apoio Administrativo …s Atividades Fazend rias
+118;Analista Fazend rio
+119;T‚cnico Fazend rio
+12;Major
+120;Auxiliar Fazend rio
+121;Agente de Trƒnsito
+122;Analista de Administra‡?o P£blica da FZDF
+123;T‚cnico de Administra‡?o P£blica da FZDF
+124;Auxiliar de Administra‡?o P£blica da FZDF
+125;Analista de Desenvolvimento Agropecu rio
+126;T‚cnico de Desenvolvimento Agropecu rio
+127;Auxiliar de Desenvolvimento Agropecu rio
+128;Analista de Desenvolvimento e Fiscaliza‡?o Agropecu ria
+129;T‚cnico de Desenvolvimento e Fiscaliza‡?o Agropecu ria
+13;Capit?o
+130;Auxiliar de Desenvolvimento e Fiscaliza‡?o Agropecu ria
+131;Analista de Administra‡?o P£blica DETRAN
+132;T‚cnico de Administra‡?o P£blica do DETRAN
+133;Auxiliar de Administra‡?o P£blica do DETRAN
+134;Agente de Trƒnsito
+135;Inspetor de Trƒnsito
+136;Analista de Administra‡?o P£blica do SLU
+137;T‚cnico de Administra‡?o P£blica do SLU
+138;Auxiliar de Administra‡?o P£blica do SLU
+139;Auditor de Controle Externo
+14;Primeiro-Tenente
+140;T‚cnico de Controle Externo
+141;Analista de Administra‡?o P£blica - TCDF
+142;T‚cnico de Administra‡?o P£blica do TCDF-A
+143;Auxiliar de Administra‡?o P£blica do TCDF-A
+144;Analista de Finan‡as e Controle Externo
+145;T‚cnico de Finan‡as e Controle Externo
+146;Analista de Administra‡?o P£blica do TCDF
+147;T‚cnico de Administra‡?o P£blica do TCDF-A
+148;Auxiliar de Administra‡?o P£blica do TCDF-A
+149;Procurador de Assistˆncia Judici ria de 2¦ Categoria
+15;Segundo-Tenente
+150;Procurador de Assistˆncia Judici ria de 1¦ Categoria
+151;Procurador de Assistˆncia Judici ria Especial
+152;Defensor P£blico de 2¦ Categoria
+153;Defensor P£blico de 1¦ Categoria
+154;Defensor P£blico Especial
+155;Especialista em Assistˆncia Social
+156;T‚cnico em Assistˆncia Social
+157;Auxiliar em Assistˆncia Social
+158;Atendente de Reintegra‡?o Social
+159;Assistente Superior em Servi‡os Sociais
+16;Aspirante-a-Oficial
+160;Assistente Intermedi rio em Servi‡os Sociais
+161;Assistente B sico em Servi‡os Sociais
+162;Atendente de Reintegra‡?o Social
+163;Instrutor de Reintegra‡?o Social
+164;Atendente de Reintegra‡?o Social
+165;Auxiliar de Reintegra‡?o Social
+166;Assistente Superior de Sa£de
+167;Assistente Intermedi rio de Sa£de
+168;Assistente B sico de Sa£de
+169;Assistente Intermedi rio de Sa£de I
+17;Subtenente
+170;Assistente Intermedi rio de Sa£de II
+171;Analista de Assistˆncia … Educa‡?o
+172;T‚cnico de Assistˆncia … Educa‡?o
+173;Auxiliar de Assistˆncia … Educa‡?o
+174;Analista de Educa‡?o
+176;Auxiliar de Educa‡?o
+177;Agente de Educa‡?o
+179;Assistente de Educa‡?o
+18;Primeiro-Sargento
+186;Analista de Administra‡?o P£blica da FCDF
+187;T‚cnico de Administra‡?o P£blica da FCDF
+188;Auxiliar de Administra‡?o P£blica da FCDF
+189;Especialista de Atividades Culturais
+19;Coronel
+190;Spalla
+191;M£sico Solista
+192;M£sico-N¡vel 1
+193;M£sico-N¡vel 2
+194;M£sico-N¡vel 3
+195;M£sico
+196;Analista de Atividades do Hemocentro - Lei 3.749/06
+197;T‚cnico de Atividades do Hemocentro - Lei 3.749/06
+198;Auxiliar de Atividades do Hemocentro - Lei 3.749/06
+199;Especialista em Transportes Urbanos
+2;T‚cnico de Administra‡?o P£blica
+20;Tenente Coronel
+200;Auditor de Controle Interno - Planejamento e Or‡amento
+201;Inspetor T‚cnico de Controle Interno - Planejamento e Or‡amento
+202;Auditor Tribut rio
+203;Fiscal Tribut rio
+204;T‚cnico Tribut rio
+205;Fiscal de Atividades Urbanas
+206;Inspetor de Atividades Urbanas
+207;Auditor de Atividades Urbanas
+208;Auditor Fiscal de Atividades Urbanas
+209;Fiscal de Obras
+21;Major
+210;Fiscal de Posturas
+211;Fiscal de Concess?es e Permiss?es
+212;Inspetor Sanit rio
+213;Inspetor de Sa£de
+214;Inspetor de Obras
+215;Inspetor Sanit rio e Industrial
+216;T‚cnico de Inspe‡?o Sanit ria e Industrial
+217;Fiscal Ambiental
+218;Professor - N¡vel 2
+219;Professor - N¡vel 3
+22;Capit?o
+226;Professor
+229;Procurador do DF-Categoria I
+23;Primeiro-Tenente
+230;Procurador do DF-Categoria II
+231;Procurador do DF-2¦ Categoria
+232;Regulador de Servi‡os P£blicos
+233;Advogado
+234;T‚cnico de Regula‡?o de Servi‡os P£blicos
+235;Fiscal de Atividades de Limpeza Urbana
+236;Analista de Administra‡?o P£blica - M‚dico
+237;Especialista em Assistˆncia Social - M‚dico
+238;Analista de Apoio …s Atividades Policiais Civis - M‚dico
+239;Analista de Atividades do Hemocentro - M‚dico - Lei 4.426/09
+24;Segundo-Tenente
+240;Analista de Educa‡?o - M‚dico
+241;Analista de Desenvolvimento e Fiscaliza‡?o Agropecu ria - M‚dico
+242;Analista de Atividades Rodovi rias - M‚dico
+244;Analista de Gest?o de Res¡duos S¢lidos - M‚dico
+245;Analista de Administra‡?o P£blica da FUNAP
+246;T‚cnico de Administra‡?o P£blica da FUNAP
+247;Auxiliar de Administra‡?o P£blica da FUNAP
+248;Analista de Atividade de Limpeza P£blica - M‚dico
+249;Agente de Gest?o de Res¡duos S¢lidos - Agente de Portaria
+25;Aspirante-a-Oficial
+250;T‚cnico de Administra‡?o P£blica do TCDF-B
+251;T‚cnico de Administra‡?o P£blica do TCDF-C
+252;Auxiliar de Administra‡?o P£blica do TCDF-B
+254;T‚cnico de Administra‡?o P£blica do TCDF-B
+255;T‚cnico de Administra‡?o P£blica do TCDF-C
+256;Auxiliar de Administra‡?o P£blica do TCDF-B
+257;Auxiliar Fazend rio - Agente de Portaria
+258;Analista de Gest?o Educacional - M‚dico
+259;Especialista de Educa‡?o B sica
+26;Subtenente
+260;Professor de Educa‡?o B sica
+261;Fiscal de Defesa do Consumidor
+262;Analista de Atividades de Defesa do Consumidor
+263;T‚cnico de Atividades de Defesa do Consumidor
+264;Agente de Atividades Penitenci rias
+267;Especialista em Pol¡ticas P£blicas e Gest?o Governamental
+268;Analista em Pol¡ticas P£blicas e Gest?o Governamental
+269;T‚cnico em Pol¡ticas P£blicas e Gest?o Governamental
+27;Primeiro-Sargento
+270;Analista Jur¡dico
+271;T‚cnico Jur¡dico
+272;Agente Jur¡dico
+273;Especialista em Pol¡ticas P£blicas e Gest?o Governamental-M‚dico
+274;T‚cnico em Pol¡ticas P£blicas e Gest?o Governamental-Agente de Portaria
+275;T‚cnico em Pol¡ticas P£blicas e Gest?o Governamental-Auxiliar de Laborat¢rio
+276;Agente Administrativo
+277;Pintor
+278;Agente Administrativo
+28;Segundo-Sargento
+288;Assistente Jur¡dico Especial
+289;Assistente Jur¡dico de 1¦ Categoria
+29;Terceiro-Sargento
+290;Assistente Jur¡dico de 2¦ Categoria
+291;Analista de Apoio … Assistˆncia Judici ria
+292;T‚cnico de Apoio … Assistˆncia Judici ria
+293;Analista de Planejamento e Gest?o Urbana
+294;T‚cnico de Planejamento e Gest?o Urbana
+295;Agente Jur¡dico - Agente de Portaria
+296;Analista Jur¡dico
+297;T‚cnico Jur¡dico
+298;Agente Jur¡dico
+299;Agente Jur¡dico - Agente de Portaria
+3;Auxiliar de Administra‡?o P£blica
+30;Cabo
+300;Professor
+301;Especialista em Educa‡?o
+302;Auditor-Fiscal da Receita
+303;T‚cnico de Trƒnsito
+304;Auxiliar de Servi‡os Gerais
+305;Auxiliar de Servi‡os Gerais
+306;Analista de Gest?o Fazend ria
+307;T‚cnico de Gest?o Fazend ria
+308;Agente de Gest?o Fazend ria
+309;Agente de Gest?o Fazend ria - Agente de Portaria
+31;Soldado - 1¦ Classe
+310;T‚cnico Legislativo - Agente de Pol¡cia Legislativa
+311;T‚cnico de Administra‡?o P£blica - TCDF
+312;Auxiliar de Administra‡?o P£blica - TCDF
+313;Auxiliar de Administra‡?o P£blica - em extin‡?o - TCDF
+314;Anterior … Lei n§ 51/89 - n¡vel b sico
+315;Anterior … Lei n§ 51/89 - n¡vel m‚dio
+316;Anterior … Lei n§ 51/89 - n¡vel superior
+317;Assistente T‚cnico
+318;Delegado de Pol¡cia
+319;M‚dico-Legista
+32;Soldado - 2¦ Classe
+320;Perito Criminal
+321;Escriv?o de Pol¡cia
+322;Agente de Pol¡cia
+323;Datiloscopista Policial
+324;Agente Penitenci rio
+33;Segundo-Sargento
+331;Pedagogo - Orientador Educacional
+335;Monitor de Gest?o Educacional
+336;Agente de Trƒnsito Rodovi rio
+337;Armazenista
+339;Cirurgi?o-Dentista
+34;Terceiro-Sargento
+340;Defensor P£blico do Distrito Federal - Especial
+341;Defensor P£blico do Distrito Federal - 1¦ Categoria
+342;Defensor P£blico do Distrito Federal - 2¦ Categoria
+343;Auditor de Controle Interno
+344;Inspetor T‚cnico de Controle Interno
+345;Especialista em Assistˆncia Social
+346;T‚cnico em Assistˆncia Social
+347;Atendente de Reintegra‡?o Social
+348;Auxiliar em Assistˆncia Social
+349;M‚dico
+35;Cabo
+350;Gestor em Pol¡ticas P£blicas e Gest?o Governamental - M‚dico
+351;Especialista em Assistˆncia Social - M‚dico
+352;Analista de Apoio …s Atividades Policiais Civis - M‚dico
+353;Analista de Atividades do Hemocentro - M‚dico
+354;Analista de Gest?o Educacional - M‚dico
+355;Analista de Desenvolvimento e Fiscaliza‡?o Agropecu ria - M‚dico
+356;Analista de Atividades Rodovi rias - M‚dico
+357;Analista de Gest?o de Res¡duos S¢lidos - M‚dico
+358;Analista de Trƒnsito - M‚dico
+359;Agente de Atividades Penitenci rias
+36;Soldado - 1¦ Classe
+360;Analista de Atividades do Hemocentro
+361;T‚cnico de Atividades do Hemocentro
+362;Agente de Atividades do Hemocentro
+363;Analista de Atividades do Meio Ambiente
+364;T‚cnico de Atividades do Meio Ambiente
+365;Especialista em Transportes Urbanos
+366;Analista de Transportes Urbanos
+367;T‚cnico de Transportes Urbanos
+368;Auxiliar de Transportes Urbanos
+369;Gestor em Pol¡ticas P£blicas e Gest?o Governamental
+37;Soldado - 2¦ Classe
+370;Analista em Pol¡ticas P£blicas e Gest?o Governamental
+371;Assistente em Pol¡ticas P£blicas e Gest?o Governamental
+372;T‚cnico em Pol¡ticas P£blicas e Gest?o Governamental
+373;Analista de Atividades Culturais
+374;T‚cnico de Atividades Culturais
+375;Auxiliar de Atividades Culturais
+376;Analista de Gest?o de Res¡duos S¢lidos
+377;Assistente de Gest?o de Res¡duos S¢lidos
+378;Agente de Gest?o de Res¡duos S¢lidos
+379;Analista Jur¡dico
+38;Procurador do DF-1¦ Categoria
+380;T‚cnico Jur¡dico
+381;Agente Jur¡dico
+382;M£sico
+383;Auxiliar Legislativo
+384;Assistente Legislativo
+385;T‚cnico Legislativo
+386;Consultor Legislativo
+387;Consultor T‚cnico-Legislativo
+388;Procurador Legislativo
+389;Tecnico Legislativo - Agente de Pol¡cia Legislativa
+39;Subprocurador-Geral do DF
+390;Gestor de Apoio …s Atividades Policiais Civis do Distrito Federal - Medicina
+391;Gestor de Apoio …s Atividades Policiais Civis do Distrito Federal
+392;Analista de Apoio …s Atividades Policiais Civis do Distrito Federal
+393;Assistente de Apoio …s Atividades Policiais Civis do Distrito Federal
+394;Agente de Atividades Complementares de Seguran‡a P£blica
+395;Inspetor Fiscal
+396;Analista de Planejamento e Gest?o Urbana e Regional
+397;T‚cnico de Planejamento e Gest?o Urbana e Regional
+398;Auxiliar de Administra‡?o P£blica ( reas em extin‡?o)
+399;Auxiliar de Administra‡?o P£blica
+4;Analista de Apoio …s Atividades Jur¡dicas
+40;Agente de Pol¡cia
+400;T‚cnico de Controle Externo
+401;T‚cnico de Administra‡?o P£blica
+402;Auditor de Controle Externo
+403;Analista Administra‡?o P£blica
+404;Auditor-Fiscal da Receita do Distrito Federal
+405;Analista de Desenvolvimento e Fiscaliza‡?o Agropecu ria
+406;T‚cnico de Desenvolvimento e Fiscaliza‡?o Agropecu ria
+407;Auxiliar de Desenvolvimento e Fiscaliza‡?o Agropecu ria
+408;Agente de Gest?o Fazend ria
+409;T‚cnico de Gest?o Fazend ria
+41;Delegado
+410;Analista de Gest?o Fazend ria
+411;Auditor de Atividades Urbanas
+412;Auditor Fiscal de Atividades Urbanas
+413;Especialista de Trƒnsito
+414;Analista Administrativo de Trƒnsito
+415;Agente de Vigilƒncia Ambiental em Sa£de
+416;Agente Comunit rio de Sa£de
+417;Auditor Fiscal de Trƒnsito
+418;Regulador de Servi‡os P£blicos
+419;Advogado
+42;Perito Criminal
+420;T‚cnico de Regula‡?o de Servi‡os P£blicos
+421;Enfermeiro
+423;Especialista em Sa£de
+424;Gari
+425;Especialista Socioeducativo
+426;Atendente de Reintegra‡?o Socioeducativo
+427;T‚cnico Socioeducativo
+428;Auxiliar Socioeducativo
+429;Agente Fiscal Tribut rio
+43;Perito M‚dico-Legista
+430;TCB TŠcnico Especializado
+431;Agente Policial de Cust¢dia
+432;Analista de Gest?o Educacional - Odont¢logo
+433;Armazenista
+434;Eletricista
+435;Operador
+436;T‚cnico Sanit rio
+437;Analista de Gest?o Educacional - Arquitetura
+438;Analista de Gest?o Educacional - Engenharia Civil
+439;Analista de Gest?o Educacional - Engenharia de Seguran‡a do Trabalho
+44;Papiloscopista Policial
+440;T‚cnico de Gest?o Educacional - Seguran‡a do Trabalho
+441;T‚cnico de Gest?o Educacional - Desenho
+442;T‚cnico Rural
+443;Carpinteiro
+444;Motorista
+445;Auxiliar de Fiscaliza‡?o
+446;Procurador de 2¦ Categoria - QE
+447;Procurador de 1¦ Categoria - QE
+448;Procurador Especial - QE
+449;Bombeiro Hidr ulico
+45;Escriv?o de Pol¡cia
+450;Art¡fice
+451;Agente Socioeducativo
+452;Diretor-Geral de Administra‡?o
+453;Agente de Suporte
+454;Assistente T‚cnico
+455;Top¢grafo
+456;Assistente Administrativo
+457;Oficial Administrativo
+458;Top¢grafo
+459;Bombeiro Art¡fice
+46;Agente Penitenci rio
+460;Mestre de Bombeiro II
+461;Auxiliar Administrativo
+462;Mecƒnico
+463;T‚cnico Saneamento II
+464;Assistente Comercial
+465;T‚cnico Especialista
+466;Servente
+467;T‚cnico de Laborat¢rio
+47;M‚dico
+48;Enfermeiro
+49;Cirurgi?o-Dentista
+50;Auxiliar de Sa£de
+51;Especialista em Sa£de
+52;T‚cnico em Sa£de
+53;Professor - N¡vel 1
+54;Especialista de Educa‡?o
+55;Conselheiro do TCDF
+56;Auditor do TCDF
+58;Procurador do MPTCDF
+59;Auxiliar de Administra‡?o P£blica - Agente de Portaria
+6;Auxiliar de Apoio …s Atividades Jur¡dicas
+60;Auxiliar de Administra‡?o P£blica - Auxiliar de Laborat¢rio
+61;Analista de Finan‡as e Controle
+62;T‚cnico de Finan‡as e Controle
+63;T‚cnico de Or‡amento
+64;Analista de Or‡amento
+65;T‚cnico de Planejamento e Or‡amento
+66;Analista de Planejamento e Or‡amento
+67;Assistente de Apoio …s Atividades Jur¡dicas
+68;Auxiliar de Apoio …s Atividades Jur¡dicas - Agente de Portaria
+69;Auxiliar de Atividades Culturais - Agente de Portaria
+7;Analista de Apoio …s Atividades Policiais Civis
+70;Auxiliar de Atividades do Hemocentro - Agente de Portaria
+72;Auxiliar de Atividades de Limpeza P£blica - Agente de Portaria
+73;Auxiliar de Apoio …s Atividades Policiais Civis - Agente de Portaria
+74;T‚cnico Penitenci rio
+76;Agente de Atividades Complementares de Seguran‡a P£blica
+77;Auditor de Controle Interno - Finan‡as e Controle
+78;Inspetor T‚cnico de Controle Interno - Finan‡as e Controle
+79;Analista de Atividades do Meio Ambiente
+8;T‚cnico de Apoio …s Atividades Policiais Civis
+80;T‚cnico de Atividades do Meio Ambiente
+81;Analista de Gest?o Educacional
+82;Analista de Gest?o de Res¡duos S¢lidos
+83;Analista de Atividade de Limpeza P£blica
+84;T‚cnico de Atividade de Limpeza P£blica
+85;Auxiliar de Atividade de Limpeza P£blica
+86;Assistente de Gest?o de Res¡duos S¢lidos
+87;Agente de Gest?o de Res¡duos S¢lidos
+89;T‚cnico de Gest?o Educacional
+9;Auxiliar de Apoio …s Atividades Policiais Civis
+92;Agente de Gest?o Educacional
+94;Analista de Trƒnsito
+95;Assistente de Trƒnsito
+96;Auxiliar de Trƒnsito
+97;Analista de Atividades Culturais
+98;T‚cnico de Atividades Culturais
+99;Auxiliar de Atividades Culturais
